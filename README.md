@@ -1,1 +1,5 @@
 # login-filter-cookie
+
+第一次作业的改进，把download改成了El标签，加了filter和cookie
+由于filter拦截的许多功能都还在建设
+于是把权限控制改为了普通用户只能访问主页和正在建设的功能，不能访问资源下载，只有管理员才能访问下载
